@@ -1,0 +1,17 @@
+!.*.json
+**/node_modules
+**/public
+src/declarations.d.ts
+tsconfig.json
+next-env.d.ts
+.eslintrc.json
+next.config.js
+postcss.config.js
+components.json
+.prettierrc.json
+package-lock.json
+
+src/components/ui/
+src/app/auth/
+
+test-route/
